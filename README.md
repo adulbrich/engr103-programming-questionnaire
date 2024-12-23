@@ -14,7 +14,7 @@ Here's a reminder on how to clone this repository:
 4. Open a terminal and connect to the ENGR servers over SSH.
 5. Navigate to the directory where you want to store your programming assignment work for this course using the `cd` command.
 6. Run the following command: `git clone <SSH_connection_string>`, replacing "`<SSH_connection_string>`" with the connection string you copied in step 3.
-7. Run the `ls` command. You should now see a directory called "engr103-programming-questionnaire-XXX", where `XXX` is your GitHub username. Enter that directory using `cd`.
+7. Run the `ls` command. You should now see a directory called `getting-started-XXX`, where `XXX` is your GitHub username. Enter that directory using `cd`.
 
 Your terminal's working directory should now be your local copy of this Git repository. If you run `ls` at this point, you should see this assignment description file (`README.md`) as well as `answers.txt`. Use `vim` to edit `answers.txt` as instructed in the next section.
 
